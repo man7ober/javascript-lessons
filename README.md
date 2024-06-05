@@ -1,9 +1,9 @@
-# Lessons - Javascript
+## JavaScript - Web Pages
 
-## 1 - Core Fundamentals
+**1 - Core Fundamentals**
 
-## 2 - DOM Manipulation
+**2 - DOM Manipulation**
 
-## 3 - Control Structures
+**3 - Control Structures**
 
-## 4 - Classes & Promises
+**4 - Classes & Promises**
