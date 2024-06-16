@@ -1,4 +1,4 @@
-## JavaScript - Web Pages
+## JavaScript - Lessons
 
 **1 - Core Fundamentals**
 
